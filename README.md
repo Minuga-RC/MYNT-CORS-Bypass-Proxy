@@ -1,2 +1,2 @@
-# MYNT-CORS-Bypass-Proxy
-Host Your Own Proxy and Bypass CORS In MYNT Search Suggestions
+# Host Your Own MYNT CORS Bypass Proxy
+this readme is work in progress
